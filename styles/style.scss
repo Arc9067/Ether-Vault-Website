@@ -187,8 +187,8 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 0 3px;
-  font-family: "Bebas Neue", cursive;
-  font-size: 15px;
+
+  font-size: 18px;
   font-weight: 600;
   color: #a9a9a9;
   white-space: nowrap;
@@ -456,8 +456,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: "Zen Dots", cursive;
-  font-weight: 500;
+  font-weight: 700;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
@@ -573,7 +572,7 @@ section {
   padding-bottom: 20px;
   position: relative;
   color: $steel-gray;
-  font-family: "Zen Dots", cursive;
+  font-weight: 700;
 }
 
 .section-title h2::after {
@@ -642,7 +641,7 @@ section {
 
 .faq .section-title h2,
 .faq .section-title p {
-  font-family: "Zen Dots", cursive;
+  font-weight: 700;
   color: linear-gradient(
     90deg,
     rgba(147, 142, 141, 0.5) 0%,
@@ -677,10 +676,9 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: "Zen Dots", cursive;
   font-size: 16px;
   line-height: 24px;
-  font-weight: 500;
+  font-weight: 700;
   padding: 0 30px;
   outline: none;
   cursor: pointer;
