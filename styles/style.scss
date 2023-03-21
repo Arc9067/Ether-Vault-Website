@@ -493,7 +493,7 @@ section {
 }
 
 .section-bg {
-  background-color: $half-baked;
+  background-color: $steel-gray;
 }
 
 .section-title {
@@ -508,7 +508,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: $steel-gray;
+  color: #fff;
   font-weight: 700;
 }
 
@@ -518,7 +518,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: $steel-gray;
+  background: #fff;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -675,8 +675,8 @@ section {
   height: 100%;
   display: grid;
   place-items: center;
-  padding: 20px 0;
-  margin-top: 30px;
+  padding: 50px 0;
+  background-color: $steel-gray;
 
   iframe {
     max-width: 95%;

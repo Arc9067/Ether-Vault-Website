@@ -458,7 +458,7 @@ section {
 }
 
 .section-bg {
-  background-color: #75b9ca;
+  background-color: #242333;
 }
 
 .section-title {
@@ -473,7 +473,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #242333;
+  color: #fff;
   font-weight: 700;
 }
 
@@ -483,7 +483,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #242333;
+  background: #fff;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -635,8 +635,8 @@ section {
   height: 100%;
   display: grid;
   place-items: center;
-  padding: 20px 0;
-  margin-top: 30px;
+  padding: 50px 0;
+  background-color: #242333;
 }
 #buy iframe {
   max-width: 95%;
